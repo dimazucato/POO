@@ -1,0 +1,14 @@
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.AssemblyInfoInputs.cache
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.AssemblyInfo.cs
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.csproj.CoreCompileInputs.cache
+F:\Pessoal\CSharp\POO\09This\bin\Debug\net8.0\09This.exe
+F:\Pessoal\CSharp\POO\09This\bin\Debug\net8.0\09This.deps.json
+F:\Pessoal\CSharp\POO\09This\bin\Debug\net8.0\09This.runtimeconfig.json
+F:\Pessoal\CSharp\POO\09This\bin\Debug\net8.0\09This.dll
+F:\Pessoal\CSharp\POO\09This\bin\Debug\net8.0\09This.pdb
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.dll
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\refint\09This.dll
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.pdb
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\09This.genruntimeconfig.cache
+F:\Pessoal\CSharp\POO\09This\obj\Debug\net8.0\ref\09This.dll

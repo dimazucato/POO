@@ -1,0 +1,14 @@
+F:\Pessoal\CSharp\POO\Conceitos\bin\Debug\net8.0\Conceitos.exe
+F:\Pessoal\CSharp\POO\Conceitos\bin\Debug\net8.0\Conceitos.deps.json
+F:\Pessoal\CSharp\POO\Conceitos\bin\Debug\net8.0\Conceitos.runtimeconfig.json
+F:\Pessoal\CSharp\POO\Conceitos\bin\Debug\net8.0\Conceitos.dll
+F:\Pessoal\CSharp\POO\Conceitos\bin\Debug\net8.0\Conceitos.pdb
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.AssemblyInfoInputs.cache
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.AssemblyInfo.cs
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.csproj.CoreCompileInputs.cache
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.dll
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\refint\Conceitos.dll
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.pdb
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\Conceitos.genruntimeconfig.cache
+F:\Pessoal\CSharp\POO\Conceitos\obj\Debug\net8.0\ref\Conceitos.dll

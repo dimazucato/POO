@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Pessoal\\CSharp\\POO\\11Polimorfismo\\11Polimorfismo.csproj": {}
+    "F:\\Pessoal\\POO\\POO\\11Polimorfismo\\11Polimorfismo.csproj": {}
   },
   "projects": {
-    "F:\\Pessoal\\CSharp\\POO\\11Polimorfismo\\11Polimorfismo.csproj": {
+    "F:\\Pessoal\\POO\\POO\\11Polimorfismo\\11Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Pessoal\\CSharp\\POO\\11Polimorfismo\\11Polimorfismo.csproj",
+        "projectUniqueName": "F:\\Pessoal\\POO\\POO\\11Polimorfismo\\11Polimorfismo.csproj",
         "projectName": "11Polimorfismo",
-        "projectPath": "F:\\Pessoal\\CSharp\\POO\\11Polimorfismo\\11Polimorfismo.csproj",
+        "projectPath": "F:\\Pessoal\\POO\\POO\\11Polimorfismo\\11Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\diogenes.mazucato\\.nuget\\packages\\",
-        "outputPath": "F:\\Pessoal\\CSharp\\POO\\11Polimorfismo\\obj\\",
+        "outputPath": "F:\\Pessoal\\POO\\POO\\11Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

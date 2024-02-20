@@ -1,0 +1,14 @@
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.AssemblyInfo.cs
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.exe
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.deps.json
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.runtimeconfig.json
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.dll
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\bin\Debug\net8.0\03ExercicioEscolar.pdb
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.dll
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\refint\03ExercicioEscolar.dll
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.pdb
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\03ExercicioEscolar.genruntimeconfig.cache
+F:\Pessoal\CSharp\POO\03ExercicioEscolar\obj\Debug\net8.0\ref\03ExercicioEscolar.dll

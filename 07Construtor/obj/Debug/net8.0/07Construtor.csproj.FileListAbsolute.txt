@@ -1,0 +1,14 @@
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfoInputs.cache
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.AssemblyInfo.cs
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.csproj.CoreCompileInputs.cache
+F:\Pessoal\CSharp\POO\07Construtor\bin\Debug\net8.0\07Construtor.exe
+F:\Pessoal\CSharp\POO\07Construtor\bin\Debug\net8.0\07Construtor.deps.json
+F:\Pessoal\CSharp\POO\07Construtor\bin\Debug\net8.0\07Construtor.runtimeconfig.json
+F:\Pessoal\CSharp\POO\07Construtor\bin\Debug\net8.0\07Construtor.dll
+F:\Pessoal\CSharp\POO\07Construtor\bin\Debug\net8.0\07Construtor.pdb
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.dll
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\refint\07Construtor.dll
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.pdb
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\07Construtor.genruntimeconfig.cache
+F:\Pessoal\CSharp\POO\07Construtor\obj\Debug\net8.0\ref\07Construtor.dll

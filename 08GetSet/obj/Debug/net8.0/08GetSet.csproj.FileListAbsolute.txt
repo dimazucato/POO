@@ -1,0 +1,14 @@
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.AssemblyInfoInputs.cache
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.AssemblyInfo.cs
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.csproj.CoreCompileInputs.cache
+F:\Pessoal\CSharp\POO\08GetSet\bin\Debug\net8.0\08GetSet.exe
+F:\Pessoal\CSharp\POO\08GetSet\bin\Debug\net8.0\08GetSet.deps.json
+F:\Pessoal\CSharp\POO\08GetSet\bin\Debug\net8.0\08GetSet.runtimeconfig.json
+F:\Pessoal\CSharp\POO\08GetSet\bin\Debug\net8.0\08GetSet.dll
+F:\Pessoal\CSharp\POO\08GetSet\bin\Debug\net8.0\08GetSet.pdb
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.dll
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\refint\08GetSet.dll
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.pdb
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\08GetSet.genruntimeconfig.cache
+F:\Pessoal\CSharp\POO\08GetSet\obj\Debug\net8.0\ref\08GetSet.dll
